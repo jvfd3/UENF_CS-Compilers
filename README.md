@@ -8,7 +8,11 @@ Codes for the class Compiles from the Computer Science course at UENF
 
 ## Activity 2 - T1 - 1.2
 
+<details> <summary>
+
 ### Media
+
+</summary>
 
 <details> <summary>
 
@@ -40,7 +44,13 @@ Codes for the class Compiles from the Computer Science course at UENF
 
 </details>
 
+</details>
+
+<details> <summary>
+
 ### Leitor
+
+</summary>
 
 <details> <summary>
 
@@ -69,6 +79,8 @@ Codes for the class Compiles from the Computer Science course at UENF
 </summary>
 
 ![Leitor scanner][2c]
+
+</details>
 
 </details>
 
