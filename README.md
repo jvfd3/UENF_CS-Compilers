@@ -4,8 +4,7 @@ Codes for the class Compiles from the Computer Science course at UENF
 
 ## To-Do's
 
-- [] Add real docstrings
-- [] asdad
+- [ ] Add real docstrings
 
 ## Activity 2 - T1 - 1.2
 
