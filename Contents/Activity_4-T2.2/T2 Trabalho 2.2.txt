@@ -1,0 +1,12 @@
+T2: Trabalho 2.2
+Fabio Machado de Oliveira
+13 de set. Editado às 25 de out.
+1 ponto
+Data de entrega: 01/11/2022 23:59
+
+
+Implementar seu analisador sintático
+https://www.youtube.com/watch?v=bOxx2c9QLpM
+
+
+Minha resposta: https://github.com/jvfd3/UENF_CS-Compilers

@@ -1,0 +1,13 @@
+T1: Trabalho 1.2
+Fabio Machado de Oliveira
+25 de ago. Editado às 13 de set.
+1 ponto
+Data de entrega: 15 de set. 23:59
+
+Executar a prática do vídeo da Aula 03 que utilizou o FLEX para demostrar o uso de um Analisador Léxico.
+
+Postar o código e o print screen das saídas obtidas.
+
+
+Minha resposta:
+https://github.com/jvfd3/UENF_CS-Compilers/blob/main/README.md

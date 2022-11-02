@@ -1,0 +1,10 @@
+T1: Trabalho 1.1
+Fabio Machado de Oliveira
+22 de ago. Editado às 13 de set.
+1 ponto
+Data de entrega: 8 de set. 23:59
+
+Encontrar uma implementação em qualquer linguagem para o autômato em anexo.
+
+Minha resposta:
+https://github.com/jvfd3/UENF_CS-Compilers
